@@ -1,4 +1,4 @@
-# mini_projeto04_vendas_ecommerce
+# mini_projeto04_vendas_ecommerce from Data Science Academy (DSA)
 
 ## 1. Definição do Problema de Negócio
 
